@@ -15,14 +15,16 @@ fichier
 
 
 ## Dépendances
--Opencv
--boost
+- Opencv
+- boost
 
 ## Compilation
+```
 mkdir build
 cd build
 cmake ..
 make
+```
 
 ## Utilisation
 ./drunk_player_gui.out ../data/
